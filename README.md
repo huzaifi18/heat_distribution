@@ -1,5 +1,5 @@
 # Heat Distribution and Heat Flux on Thin Plate Surfaces
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huzaifi18/heat_distribution/blob/main/Visualisasi%20Persebaran%20Panas.ipynb)<br>
 ---
 
 + This repository provides the application of partial differential equations to the case of heat distribution on thin plates.
